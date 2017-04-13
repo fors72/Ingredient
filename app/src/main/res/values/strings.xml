@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ингредиент</string>
+    <string name="find_by_ingredients">поиск по ингредиентам</string>
+    <string name="include">Состав</string>
+    <string name="description">Описание</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="instruction">Инструкция</string>
+    <string name="steps">Пошаговые фото приготовления</string>
+    <string name="step">Шаг %1$d: </string>
+    <string name="share">ПОДЕЛИТСЯ С ДРУЗЬЯМИ</string>
+    <string name="add_to">Добавить в</string>
+    <string name="remove_from">Убрать из </string>
+    <string name="favorite">избранные</string>
+    <string name="Favorite">Избранные</string>
+    <string name="favoriteV1">избранных</string>
+    <string name="footer">© 2017 «ИНГРЕДИЕНТ»</string>
+    <string name="new_recipe">Новый рецепт</string>
+    <string name="add_ingredient">Добавить ингредиент</string>
+    <string name="recipe_name">Название рецепта</string>
+    <string name="create_recipe">Создать рецепт</string>
+</resources>

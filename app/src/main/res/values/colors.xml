@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainAppColor">#c40101</color>
+    <color name="greyText">#545454</color>
+    <color name="bg_step_btn">#a0000000</color>
+
+</resources>
